@@ -5,7 +5,7 @@
     <br>Security Consultant - Macclesfield, UK<br>
 </samp>
 
-  <img src="https://media1.tenor.com/images/e840e6739629f2b2b2919cfbcb3f9d16/tenor.gif" width="200"/>
+  <img src="https://i.imgur.com/xHYaH9o.gif" width="200"/>
 
 </p>
 
