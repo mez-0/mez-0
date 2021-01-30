@@ -2,7 +2,7 @@
   <br>
   <samp>
     Yoyo! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/__mez0__">mez0</a></b>.
-    <br>Security Consultant - Macclesfield, UK<br>
+    <br>Security Consultant - Manchester, UK<br>
 </samp>
 
   <img src="https://i.imgur.com/xHYaH9o.gif" width="200"/>
