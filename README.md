@@ -12,5 +12,3 @@
 - 🔭 I’m currently working at [Secarma](https://secarma.com)
 - 📝 I regularly write articles on [mez0.cc](https://mez0.cc)
 - 📫 How to reach me: [@__mez0__](https://twitter.com/__mez0__)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mez-0&show_icons=true&locale=en&layout=compact" alt="mez-0" /></p>
