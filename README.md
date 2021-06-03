@@ -14,8 +14,3 @@
 - 📫 How to reach me: [@__mez0__](https://twitter.com/__mez0__)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mez-0&show_icons=true&locale=en&layout=compact" alt="mez-0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mez-0&show_icons=true&locale=en" alt="mez-0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mez-0&" alt="mez-0" /></p>
-
