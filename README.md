@@ -9,6 +9,13 @@
 
 </p>
 
-I upload stuff I think is somewhat cool. Sometimes, it works.
-- 🔭 I’m currently working at [Secarma](https://github.com/secarmalabs/)
+- 🔭 I’m currently working at [Secarma](https://secarma.com)
+- 📝 I regularly write articles on [mez0.cc](https://mez0.cc)
 - 📫 How to reach me: [@__mez0__](https://twitter.com/__mez0__)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mez-0&show_icons=true&locale=en&layout=compact" alt="mez-0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mez-0&show_icons=true&locale=en" alt="mez-0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mez-0&" alt="mez-0" /></p>
+
