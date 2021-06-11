@@ -9,6 +9,6 @@
 
 </p>
 
-- 🔭 I’m currently working at [Secarma](https://secarma.com)
-- 📝 I regularly write articles on [mez0.cc](https://mez0.cc)
-- 📫 How to reach me: [@__mez0__](https://twitter.com/__mez0__)
+- 🔭 Currently working at: [Secarma](https://secarma.com)
+- 📝 Write stuff at: [mez0.cc](https://mez0.cc)
+- 📫 Reach me at: [@__mez0__](https://twitter.com/__mez0__)
